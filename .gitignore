@@ -1,3 +1,8 @@
+.vite-ssg-dist
+.vite-ssg-temp
+.idea/
+cypress/downloads
+public/assets/fonts
 # Logs
 logs
 *.log
